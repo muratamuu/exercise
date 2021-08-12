@@ -1,0 +1,6 @@
+*.d
+*.o
+
+# rust
+target/
+Cargo.lock
